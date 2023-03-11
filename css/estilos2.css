@@ -122,10 +122,10 @@ h1,h2,h3 {
     justify-content: center;
 }
 .imagenen2{
-    background-image: url(../img/E45yrHaWUAEIsqY.jpg);
+    background-image: url(../img/prueba1.png);
     background-repeat: no-repeat;
     background-size:cover;
-    height: 200rem;
+    height: 100rem;
     position:relative;
 }
 .contenido_2{
@@ -159,6 +159,10 @@ h1,h2,h3 {
 
 
 .ubicacion{
+    display: flex;
+    justify-content: center;
+}
+.ubicacion2{
     display: flex;
     justify-content: center;
 }
