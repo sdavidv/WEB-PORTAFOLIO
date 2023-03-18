@@ -8,7 +8,7 @@
     --fuentepricnipal: 2rem;
 }
 
-,:before, *:after {
+:before, *:after {
     box-sizing: inherit;
 }
 
@@ -110,6 +110,7 @@ h1,h2,h3 {
     background-size: cover;
     height: 50rem;
     position: relative;
+    flex: auto;
 }
 .contenido_1{
     position: absolute;
@@ -317,3 +318,9 @@ border-radius: 1rem;}
     display: flex;
     justify-content: center;
 }
+footer {
+    text-align: center;
+    padding: 6px;
+    background-color: rgb(174, 31, 79);
+    color: white;
+  }
